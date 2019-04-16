@@ -97,6 +97,7 @@
     </div>
     <?php
         $this->load->view('/components/footer');
+		#eldio was here. Testing. I'm new so pls understand
     ?>
     
 </body>
